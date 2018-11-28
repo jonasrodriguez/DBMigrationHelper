@@ -36,11 +36,10 @@ Item {
         anchors.left: parent.left
         border.width: 1
     }
-    Rectangle {
+    ConsoleControl {
         anchors.top: controlsArea.bottom
         anchors.left: parent.left
         anchors.right: parent.right
         anchors.bottom: parent.bottom
-        border.width: 1
     }
 }

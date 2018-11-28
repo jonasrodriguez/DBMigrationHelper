@@ -7,5 +7,6 @@
         <file>Theme/Theme.qml</file>
         <file>CurrentVersion.qml</file>
         <file>NewVersion.qml</file>
+        <file>ConsoleControl.qml</file>
     </qresource>
 </RCC>
